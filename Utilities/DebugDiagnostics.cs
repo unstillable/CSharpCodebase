@@ -2,6 +2,8 @@ using System.Diagnostics;
 using System.Linq;
 using System.Runtime.CompilerServices;
 
+
+//used for debugging in visual studio
 namespace Utilities
 {
     public static class DebugDiagnostics
